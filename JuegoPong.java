@@ -181,7 +181,7 @@ public class JuegoPong extends JPanel implements Runnable, KeyListener {
 
     // MÉTODO MAIN: Crea la ventana contenedora de Windows/Mac
     public static void main(String[] args) {
-        JFrame ventana = new JFrame("Mi Primer Videojuego en Java - PONG");
+        JFrame ventana = new JFrame("Juego de Ping Pong - Primera version");
         JuegoPong panelJuego = new JuegoPong();
 
         ventana.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
