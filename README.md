@@ -117,7 +117,7 @@ Este proyecto pone en práctica los siguientes conceptos de programación:
 
 ---
 
-## 👨‍💻 Autor
+## Autor
 
 **Julio César González Romero**
 
@@ -125,6 +125,6 @@ Proyecto desarrollado con fines académicos para practicar programación gráfic
 
 ---
 
-## 📄 Licencia
+## Licencia
 
 Este proyecto se distribuye únicamente con fines educativos.
