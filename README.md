@@ -54,13 +54,13 @@ Este proyecto implementa la lógica básica de un videojuego 2D, incluyendo movi
 1. Clona el repositorio.
 
 ```bash
-git clone https://github.com/TU_USUARIO/TU_REPOSITORIO.git
+git clone https://github.com/julioromero015/Juego_Pong.git
 ```
 
 2. Entra al proyecto.
 
 ```bash
-cd TU_REPOSITORIO
+cd Juego_Pong
 ```
 
 3. Compila el programa.
